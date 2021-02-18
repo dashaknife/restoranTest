@@ -867,6 +867,7 @@ footer {
         border-radius: 50%;
         background-color: white;
         background-image: url(../img/icon/arrow5.png);
+        cursor: pointer;
     }
     .review_arrow {
         background-image: url(../img/icon/arrow6.png);

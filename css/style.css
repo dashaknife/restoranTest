@@ -20,7 +20,9 @@ body {
     width: 100%;
     margin: 0 auto;
 }
-
+.pointer{
+    cursor: pointer;
+}
 /* Header
 ===================*/
 .header {
